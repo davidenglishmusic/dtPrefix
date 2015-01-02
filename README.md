@@ -1,4 +1,4 @@
 Prefix
 ======
 
-** TODO: Add description **
+Dave Thomas' prefix exercise in Elixir
